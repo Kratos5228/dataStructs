@@ -1,0 +1,3 @@
+Hello, Werld!
+
+This file intenshionally contains a number of mispellings so they can be foundby our spell checker. I've also asshured that it kontains a few outlier situations for my South Texas Colege students.
